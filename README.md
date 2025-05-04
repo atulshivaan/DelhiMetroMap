@@ -1,5 +1,5 @@
 DelhiMetroMap
-Overview
+
 DelhiMetroMap is a React-based web application designed to visualize the Delhi Metro network. Leveraging Vite for fast development and ESLint for code quality, this project aims to provide an interactive and user-friendly interface for exploring the metro system.
 Wikipedia
 
@@ -23,26 +23,26 @@ Steps
 Clone the Repository
 
 bash
-Copy
-Edit
+
+
 git clone https://github.com/atulshivaan/DelhiMetroMap.git
 Navigate to the Project Directory
 
 bash
-Copy
-Edit
+
+
 cd DelhiMetroMap
 Install Dependencies
 
 bash
-Copy
-Edit
+
+
 npm install
 Run the Development Server
 
 bash
-Copy
-Edit
+
+
 npm run dev
 Open your browser and go to http://localhost:3000 to view the application.
 
